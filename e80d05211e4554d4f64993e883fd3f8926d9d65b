@@ -1,0 +1,8 @@
+Workflow+1: Guillaume Vincent <gvincent@redhat.com>
+Code-Review+2: Guillaume Vincent <gvincent@redhat.com>
+Verified+2: Zuul CI <zuul@softwarefactory-project.io>
+Submitted-by: Zuul CI <zuul@softwarefactory-project.io>
+Submitted-at: Tue, 07 Jan 2025 15:03:35 +0000
+Reviewed-on: https://softwarefactory-project.io/r/c/python-pyyaml/+/32802
+Project: python-pyyaml
+Branch: refs/heads/master
